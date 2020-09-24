@@ -1,17 +1,9 @@
-# Android Project : Phone Book Application
+# Android Project : Phone Book Application 안드로이드 스튜디오를 이용하여 간단한 전화번호부 앱을 만들기
 [![image](https://img.shields.io/badge/Build-Gradle%205.1.1-yellowgreen)](https://gradle.org/) 
 [![image](https://img.shields.io/badge/Android%20SDK-API%2029%3A%20Android%209.%2B-brightgreen) ](https://developer.android.com/studio/?gclid=CjwKCAjwh7H7BRBBEiwAPXjadjupXKrLjEJYAGBpFkUAfz0EV5_K5790QOU1YjOq933gNe1xoCs6IhoCKXQQAvD_BwE&gclsrc=aw.ds)
 [![image](https://img.shields.io/badge/Language-Java-orange)](https://www.java.com/ko/)
 
 
-
-## 
-
-
-####  안드로이드 스튜디오를 이용하여 간단한 전화번호부 앱을 만들기
-
-
-## 
 
 
 # 화면설명
@@ -29,11 +21,7 @@
 - “YES, EXIT” 선택 시 종료, “NO, CANCEL” 선택 시 창으로 다시 돌아감
 ```
 
-## 
-## 
-## 
-## 
-## 
+
 
 ## :memo: 두번째 화면
 ![image](https://user-images.githubusercontent.com/42762236/94189509-cc7e0c00-fee5-11ea-93d8-50dee6ad451f.png)
@@ -54,10 +42,6 @@
 ```          
          
          
-## 
-## 
-## 
-
 
     
       
@@ -67,9 +51,7 @@
 - Gender가 Female이면 2번 주황색 프로파일 사진을 보여줌
 - Gender가 Male이면 3번 검정색 프로파일 사진을 보여줌
 
-## 
-## 
-## 
+
 
 ## :memo: 세번째 화면
 
@@ -82,8 +64,7 @@
 
 ```     
 
-## 
-## 
+
 
 ![image](https://user-images.githubusercontent.com/42762236/94190885-ad807980-fee7-11ea-98ca-7bc409e619d5.png)
 
@@ -98,10 +79,6 @@
 
 
 
-
-
-## 
-## 
 
 
 ## :mailbox_with_mail: Connect
