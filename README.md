@@ -1,5 +1,5 @@
  
-# 안드로이드 스튜디오를 이용하여 간단한 전화번호부 앱을 만들기
+# 안드로이드 스튜디오를 이용하여 전화번호부 앱을 만들기
 [![image](https://img.shields.io/badge/Build-Gradle%205.1.1-yellowgreen)](https://gradle.org/) 
 [![image](https://img.shields.io/badge/Android%20SDK-API%2029%3A%20Android%209.%2B-brightgreen) ](https://developer.android.com/studio/?gclid=CjwKCAjwh7H7BRBBEiwAPXjadjupXKrLjEJYAGBpFkUAfz0EV5_K5790QOU1YjOq933gNe1xoCs6IhoCKXQQAvD_BwE&gclsrc=aw.ds)
 [![image](https://img.shields.io/badge/Language-Java-orange)](https://www.java.com/ko/)
